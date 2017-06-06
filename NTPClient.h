@@ -2,7 +2,7 @@
 
 #include "Arduino.h"
 
-#include <ESP8266WiFi.h>
+#include <WiFi.h>
 #include <WiFiUdp.h>
 
 #define SEVENZYYEARS 2208988800UL
